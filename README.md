@@ -8,6 +8,7 @@ Addresses always name a tag, never a branch, so a released sheet's art can't cha
 
 - `art-6`: fourteen locations and thirty-three figures. `BRIEF.md` says how the locations were made.
 - `art-7`: adds Howler's three colour masks and thirteen objects for the sheet's widgets, each with three.
+- `art-10`: adds Ogre and Pulsar, the colour kit's two drawings as painted, cut head to sole at 320 px. From here a look is a finished picture, coloured before it is published; a character may have a few variants, each its own file.
 
 ## Names
 
